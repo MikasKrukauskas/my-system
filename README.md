@@ -31,7 +31,7 @@
          -[Select: select a city]
          -[GiveMoreInformation: open a second window)]
     - [Second: ] 
-      - [Possible actions: ]
+      - [Possible actions:]
           - [Edit: edit selected date range]
           - [Delete: delete selected weather report]
           - [Post: post an information about weather by selected date]
